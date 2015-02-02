@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ZendSkeletonApplication
 =======================
 
@@ -75,3 +76,6 @@ project and you should be ready to go! It should look something like below:
             Allow from all
         </Directory>
     </VirtualHost>
+=======
+# zf2-project
+>>>>>>> bb9f2d9fe93800db61ef90ac94a398ad7e1abb86
